@@ -1,2 +1,4 @@
-# Aprendizado-N-o-Supervisionado
-Aprendizado Não Supervisionado
+# Aprendizado Não Supervisionado
+Lucas Volkmann 
+RGM: 13375890
+
